@@ -6,7 +6,7 @@ dist/
 build/
 
 # Environment variables (secrets)
-# .env
+.env
 # .env.local
 # .env.development
 # .env.production
